@@ -1,0 +1,5 @@
+convert x -resize 14x14 -colors 8 y.png
+
+x is the input image file.
+y is the output image file, y can be the same as x, but then original x will be over writen.
+
